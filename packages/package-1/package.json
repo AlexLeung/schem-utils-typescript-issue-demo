@@ -1,0 +1,9 @@
+{
+    "name": "package1",
+    "devDependencies": {
+        "@types/node": "^13.13.4"
+    },
+    "dependencies": {
+        "webpack": "next"
+    }
+}

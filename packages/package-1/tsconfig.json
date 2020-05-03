@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6",
+      "lib": [
+        "esnext"
+      ],
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitReturns": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "strict": true,
+      "stripInternal": true,
+      "rootDir": "./source",
+      "outDir": "./build",
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "types": [
+          "node"
+      ]
+    },
+    "references": [],
+    "include": [
+      "./source/**/*"
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+    "devDependencies": {
+        "typescript": "^3.8.3"
+    },
+    "scripts": {
+        "start": "yarn tsc -b ./tsconfig.json"
+    },
+    "workspaces": [
+        "packages/package-1"
+    ]
+}

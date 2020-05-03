@@ -1,0 +1,8 @@
+{
+    "files": [],
+    "references": [
+        {
+            "path": "./packages/package-1"
+        }
+    ]
+}
