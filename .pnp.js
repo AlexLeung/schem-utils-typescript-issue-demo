@@ -51,15 +51,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "SOFT",
         }]
       ]],
-      ["@types/json-schema", [
-        ["npm:7.0.4", {
-          "packageLocation": "./.yarn/cache/@types-json-schema-npm-7.0.4-e9c65098ca-3.zip/node_modules/@types/json-schema/",
-          "packageDependencies": [
-            ["@types/json-schema", "npm:7.0.4"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["@types/node", [
         ["npm:13.13.4", {
           "packageLocation": "./.yarn/cache/@types-node-npm-13.13.4-1e30c2a062-3.zip/node_modules/@types/node/",
@@ -1125,7 +1116,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/schema-utils-npm-2.6.6-31a26805d3-3.zip/node_modules/schema-utils/",
           "packageDependencies": [
             ["schema-utils", "npm:2.6.6"],
-            ["@types/json-schema", "npm:7.0.4"],
             ["ajv", "npm:6.12.2"],
             ["ajv-keywords", "virtual:31a26805d32f52be42b149b36a6d533e719287ea5eacf0daa2b211a73bf73a0a11b44f44ee3dcb518e7141d27368c97f86087586fd4c4f474011d66ec9e0aafc#npm:3.4.1"]
           ],
